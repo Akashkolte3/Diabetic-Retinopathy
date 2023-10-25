@@ -1,4 +1,4 @@
-# Diabetic-Retinopathy Detection Using Efficient-Net Model
+# Diabetic-Retinopathy Detection Using Various Deep Learning Models
 
 ## Introduction
 Diabetes has become a widespread disease affecting approximately 382 million people globally, with projections estimating a rise to 592 million by 2025. One of the significant complications associated with diabetes is Diabetic Retinopathy (DR), a condition that damages the blood vessels in the retina of the eyes. It affects around 34.6% of individuals with diabetes worldwide. In the Khyber Pakhtunkhwa (KP) province of Pakistan, DR causes blindness in 4% of the population, with type I diabetes being the most prevalent cause. In this region, 30% of the population has diabetes, with 1.6% of them having type II diabetes. Among diabetic patients, approximately 30% have DR, and nearly 2% of these patients have developed complete blindness. Early detection of DR is essential to prevent or minimize its severe consequences. 
